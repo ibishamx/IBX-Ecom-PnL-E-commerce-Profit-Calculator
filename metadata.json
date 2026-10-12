@@ -1,0 +1,6 @@
+{
+  "name": "IBX Ecom PnL",
+  "description": "Pakistan E-commerce Profit & Loss Calculator for Shopify and COD businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
